@@ -1,0 +1,17 @@
+{
+  "name": "adventofcode2025",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "eslint": "^9.39.1",
+    "prettier": "^3.7.4",
+    "prettier-eslint": "^16.4.2"
+  }
+}
